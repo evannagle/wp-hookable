@@ -1,6 +1,6 @@
 <?php
 
-namespace Mantle\WP\Hookable;
+namespace Pez\WP\Hookable;
 
 abstract class Hookable {
     /**

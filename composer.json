@@ -1,5 +1,5 @@
 {
-    "name": "mantle/wp-hookable",
+    "name": "pez/wp-hookable",
     "description": "An abstract class that binds class methods to Wordpress filters and actions.",
     "type": "library",
     "license": "GPL-2.0",
@@ -11,6 +11,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Mantle\\WP\\Hookable\\": "src/"}
+        "psr-4": {"Pez\\WP\\Hookable\\": "src/"}
     }
 }
